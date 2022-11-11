@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react';
 import { SafeAreaView } from 'react-native';
 import { DimensionesScreen } from './src/screens/DimensionesScreen';
@@ -17,5 +18,3 @@ export const App = () => {
 
   );
 };
-
-
