@@ -15,7 +15,9 @@ const styles = StyleSheet.create({
     container:{
         flex:1,
         backgroundColor: '#28C4D9',
-        flexDirection: 'row-reverse',
+        flexDirection: 'row',
+        justifyContent: 'center',
+        alignItems: 'center'
     },
     caja1:{
         borderWidth: 2,
